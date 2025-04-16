@@ -1,0 +1,2 @@
+ Income: Freelance: | 500 | Category: Work
+ Income: Lunch: | 30 | Category: Expense
